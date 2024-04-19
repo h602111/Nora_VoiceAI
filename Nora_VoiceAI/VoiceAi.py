@@ -18,7 +18,6 @@ import time as tt
 from nltk.tokenize import word_tokenize
 from voices import speak
 from openai import OpenAI
-import gradio as gr
 import sounddevice as sd
 from scipy.io.wavfile import write
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
