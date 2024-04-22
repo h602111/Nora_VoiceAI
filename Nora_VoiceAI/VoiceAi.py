@@ -237,7 +237,7 @@ if __name__ =="__main__":
                             speak("The email could not be sent")
                     elif 'message' in query:
                         user_name = {
-                            'to my friend':'91147808'
+                            'to my friend':'xxxxxxxx'
                         }
                         try:
                             speak("Who should i send a message to ?")
